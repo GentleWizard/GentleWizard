@@ -1,6 +1,15 @@
 <h1 align="center">Greetings, fellow humans. I’m Kaeden</h1>
 <h3 align="center">I’m a developer on a mission to make the world a better place.</h3>
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" width="100" height="100" /></p>
+<h3 align="center">About Me</h3>
+
+<p align="center">I'm a 17-year-old self-taught developer with a passion for creating impactful projects through coding.</p>
+
+___
+
 - I’m currently working on: [Minecraft mod downloader](https://github.com/GentleWizard/Minecraft-mod-downloader)
 
 - I’m currently learning **Python and Javascript**
@@ -12,6 +21,8 @@
 - You can reach me at: **github@gentlewizard.ca**
 
 - Fun fact **I have a phobia of semicolons and curly braces.**
+
+___
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
