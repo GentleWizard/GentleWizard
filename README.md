@@ -10,11 +10,11 @@
 
 ___
 
-- I’m currently working on: [Minecraft mod downloader](https://github.com/GentleWizard/Minecraft-mod-downloader)
+- I’m currently working on: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
 
 - I’m currently learning **Python and Javascript**
 
-- I’m looking for help with: [Minecraft mod downloader](https://github.com/GentleWizard/Minecraft-mod-downloader)
+- I’m looking for help with: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
 
 - All of my projects are available at: [https://github.com/GentleWizard?tab=repositories](https://github.com/GentleWizard?tab=repositories)
 
