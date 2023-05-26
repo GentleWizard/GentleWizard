@@ -20,13 +20,6 @@ ___
 
 - Fun fact **I have a phobia of semicolons and curly braces.**
 
-<h3>You can reach me at:</h3>
-<ul>
-<li>Email: github@gentlewizard.ca</li>
-<li>Github: <a href="https://github.com/GentleWizard/" target="blank">[Github/GentleWizard]</a></li>
-<li>Discord: Mr.Wizard#5853</li>
-</ul>
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
