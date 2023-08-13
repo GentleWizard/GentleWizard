@@ -12,7 +12,7 @@ ___
 
 - I’m currently working on: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
 
-- I’m currently learning **Python and Javascript**
+- I’m currently learning **Python**
 
 - I’m looking for help with: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
 
