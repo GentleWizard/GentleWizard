@@ -10,15 +10,6 @@
 
 ___
 
-- I’m currently working on: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
-
-- I’m currently learning **Python**
-
-- I’m looking for help with: [Minecraft Manager](https://github.com/GentleWizard/Minecraft-Manager)
-
-- All of my projects are available at: [https://github.com/GentleWizard?tab=repositories](https://github.com/GentleWizard?tab=repositories)
-
-- Fun fact **I have a phobia of semicolons and curly braces.**
 
 ---
 
@@ -42,3 +33,5 @@ ___
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   
 </p>
+
+I have a phobia of semicolons and curly braces.
