@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/cloud/github.svg" width="100" height="100" /></p>
 <h3 align="center">About Me</h3>
 
-<p align="center">I'm a 17-year-old self-taught developer with a passion for creating impactful projects through coding.</p>
+<p align="center">I'm an 18-year-old self-taught developer that is passionate about creating impactful projects through coding.</p>
 
 ___
 
