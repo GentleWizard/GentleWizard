@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Kaeden! and I'm a Dev from Canada.🍁</h2>
+<h2 align="center">Hi 👋! My name is Kaeden! And I'm a Dev from Canada.🍁</h2>
 
 ###
 
