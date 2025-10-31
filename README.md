@@ -26,8 +26,8 @@
 <h2></h2>
 
 ### My Approach
-- Build things that solve real-world problems, not just add noise  
-- Prioritize **self-hosted software** that puts users in control  
+- Build things that solve real-world problems, not just add noise
+- Prioritize **self-hosted software** that puts users in control
 - Chase performance, but never at the cost of maintainability  
 
 ---
@@ -35,7 +35,7 @@
 ### Principles I Work By
 - Code should be **readable first, powerful second**  
 - Open-source by default, closed-source only when it makes sense  
-- If it’s boring, automate it — save the brainpower for the fun stuff  
+- If it’s boring, automate it save the brainpower for the fun stuff  
 
 ---
 
@@ -43,9 +43,10 @@
 ### Outside of Code
 - Tabletop RPGs fan (currently building tools for D&D players)  
 - Constantly experimenting with new languages & frameworks  
-- Coffee + debugging = my natural state ☕🕹️  
+- Coffee + debugging = my natural state 
 
 <h1></h1>
+
 <div>
- <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a target="_blank" rel="noopener noreferrer" href='https://kaedendickinson.me/'>Website</a>  | <a target="_blank" rel="noopener noreferrer" href="mailto:github@gentlewizard.ca">Email</a>
+ <a href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a href='https://kaedendickinson.me/'>Website</a>  | <a href="mailto:github@gentlewizard.ca">Email</a>
 </div>
