@@ -47,5 +47,5 @@
 
 <h1></h1>
 <div>
- <a href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a href='#'>Website (WIP)</a>  | <a href="mailto:github@gentlewizard.ca">Email</a>
+ <a href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a href='https://kaedendickinson.me/'>Website (WIP)</a>  | <a href="mailto:github@gentlewizard.ca">Email</a>
 </div>
