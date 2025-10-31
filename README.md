@@ -47,5 +47,5 @@
 
 <h1></h1>
 <div>
- <a target="_blank" href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a target="_blank" href='https://kaedendickinson.me/'>Website</a>  | <a target="_blank" href="mailto:github@gentlewizard.ca">Email</a>
+ <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/kaedendickinson">LinkedIn</a> | <a target="_blank" rel="noopener noreferrer" href='https://kaedendickinson.me/'>Website</a>  | <a target="_blank" rel="noopener noreferrer" href="mailto:github@gentlewizard.ca">Email</a>
 </div>
